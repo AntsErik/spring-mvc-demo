@@ -22,7 +22,7 @@ public class Student {
 	     favoriteLanguageOptions.put("C#", "C#");
 	     favoriteLanguageOptions.put("PHP", "PHP");
 	     favoriteLanguageOptions.put("Ruby", "Ruby");
-}
+	}
 	
 
 	public String getFirstName() {
